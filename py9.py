@@ -1,0 +1,6 @@
+nas_str = input("Нас (текст): ")
+undur_str = input("Өндөр (текст): ")
+nas = int(nas_str)
+undur = float(undur_str)
+print("Нас (тоо):", nas, type(nas))
+print("Өндөр (бутархай тоо):", undur, type(undur))
